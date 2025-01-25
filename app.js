@@ -1,7 +1,7 @@
 // Declaración de variables globales
 let numeroSecreto = 0;
 let intentos = 0;
-let maxIntentos = 5;
+let maxIntentos = 3;
 let listaNumerosSorteados = [];
 let numeroMaximo = 10;
 
