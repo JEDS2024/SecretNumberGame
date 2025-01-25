@@ -91,7 +91,7 @@ function parametrosIniciales() {
   intentos = 1;
   numeroSecreto = generarNumeroSecreto();
   console.log(numeroSecreto);
-  asignarTextoElemento("h1", "Juego del número secreto");
+  asignarTextoElemento("h1", "Adivina el número secreto");
   asignarTextoElemento(
     "p",
     `Indica un número del 1 al ${numeroMaximo}, tienes ${maxIntentos} intentos`
